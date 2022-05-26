@@ -9,7 +9,7 @@ Este é um bom recurso para ter em um site de comércio eletrônico para exibir 
 ## Funcionamento do projeto:
 
 <p align="center">
-  <img width="470" src="assets/img/project.gif">
+  <img width="720px" src="assets/img/project.gif">
 </p>
 
 ## Tecnologias utilizadas:
