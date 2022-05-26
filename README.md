@@ -1,6 +1,6 @@
-# reviewCarousel
+# Carrossel de Revisões
 
-# Sobre o projeto:
+<p font-size: 16px> Sobre o projeto:</p>
 
 Este projeto foi criado com JavaScript, é um carrossel de classificação com um botão que gera classificações aleatórias.
 
