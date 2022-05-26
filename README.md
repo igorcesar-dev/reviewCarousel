@@ -1,7 +1,7 @@
 # reviewCarousel
 
 <p align-"center">
-  <img width="470" src="src/assets/img/project.gif">
+  <img width="470" src="assets/img/project.gif">
 </p>
 
 Este projeto foi criado com JavaScript, é um carrossel de classificação com um botão que gera classificações aleatórias.
