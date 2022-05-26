@@ -1,11 +1,14 @@
 # reviewCarousel
 
-This project was created with JavaScript, it is a rating carousel with a button that generates random ratings.
+<p align-"center">
+  <img width="470" src="src/assets/img/project.gif">
+</p>
 
-This is a nice feature to have on an e-commerce site to display customer reviews or a personal portfolio to display customer reviews.
+Este projeto foi criado com JavaScript, é um carrossel de classificação com um botão que gera classificações aleatórias.
 
-Main concepts covered:
+Este é um bom recurso para ter em um site de comércio eletrônico para exibir avaliações de clientes ou um portfólio pessoal para exibir avaliações de clientes.
 
+Principais conceitos abordados:
 - Objects;
 - DOMCentLoaded;
 - AddEventListener();
