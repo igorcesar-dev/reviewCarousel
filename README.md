@@ -12,7 +12,7 @@ Este é um bom recurso para ter em um site de comércio eletrônico para exibir 
   <img width="720px" src="assets/img/project.gif">
 </p>
 
-## Tecnologias utilizadas:
+## Conceitos tratados:
 
 - Objects;
 - DOMCentLoaded;
