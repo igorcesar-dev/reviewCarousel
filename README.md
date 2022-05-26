@@ -1,6 +1,6 @@
 # reviewCarousel
 
-<p align-"center">
+<p align="center">
   <img width="470" src="assets/img/project.gif">
 </p>
 
