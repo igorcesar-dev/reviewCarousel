@@ -8,8 +8,8 @@ Este é um bom recurso para ter em um site de comércio eletrônico para exibir 
 
 ## Funcionamento do projeto:
 
-<p align="center">
-  <img width="720px" src="assets/img/project.gif">
+<p align="left">
+  <img width="1280px" src="assets/img/project.gif">
 </p>
 
 ## Conceitos tratados:
